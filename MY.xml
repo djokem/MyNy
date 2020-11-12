@@ -1,0 +1,19 @@
+<?xml version="1.0" ?><ZaSlanje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dokument>
+		<DatumIzvestaja></DatumIzvestaja>
+		<Obrazac>MY</Obrazac>
+		<MaticniBroj></MaticniBroj>
+		<RedniBroj></RedniBroj>
+		<BrojOIZ></BrojOIZ>
+		<PodatkeObradio></PodatkeObradio>
+		<Kontakt></Kontakt>
+		<SlogMY>
+			<StavkaMY>
+				<RedniBroj>1</RedniBroj>
+				<Naziv>Menjacnica Bata, Vlasotince</Naziv>
+				<Mesto>Vlasotince</Mesto>
+				<Adresa>Aleksandra Puskina bb</Adresa>
+			</StavkaMY>
+		</SlogMY>
+	</Dokument>
+</ZaSlanje>
